@@ -1,0 +1,5 @@
+let mySprite = sprites.create(assets.image`Kasper`, SpriteKind.Player)
+let mySprite2 = sprites.create(assets.image`Casper`, SpriteKind.Enemy)
+let mySprite3 = sprites.create(assets.image`Zombie 2`, SpriteKind.Enemy)
+let mySprite4 = sprites.create(assets.image`Zombie2`, SpriteKind.Enemy)
+let mySprite5 = sprites.create(assets.image`Zombie3`, SpriteKind.Enemy)
